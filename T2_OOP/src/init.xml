@@ -1,0 +1,13 @@
+<shop>
+    <categories>
+        <category>outdoors</category>
+        <category>indoors</category>
+    </categories>
+    <SportEquipment>
+        <equipment category="outdoors" title="bicycle" price="2" numberOfUnits="3" />
+        <equipment category="outdoors" title="tennis_racket" price="1" numberOfUnits="2"/>
+        <equipment category="outdoors" title="snowboard" price="3" numberOfUnits="5"/>
+        <equipment category="indoors" title="treadmill" price="4" numberOfUnits="1"/>
+        <equipment category="indoors" title="elliptical_trainer" price="4" numberOfUnits="2"/>
+    </SportEquipment>
+</shop>
