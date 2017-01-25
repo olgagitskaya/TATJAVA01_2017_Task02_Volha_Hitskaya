@@ -9,7 +9,6 @@ import java.util.Date;
 public class RentUnit {
     private ArrayList<SportEquipment> units;
     private Date dateOfRent;
-    private SportEquipment se;
     private String equipmentNotOrdered ="";
 
     public RentUnit(ArrayList<SportEquipment> units, Date dateOfRent)
